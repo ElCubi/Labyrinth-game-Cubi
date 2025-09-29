@@ -1,2 +1,2 @@
-# Labyrinth-game-Cubi
-Labyrinth game made in C by Cubi
+# Labyrinth-Game-Cristian
+Labyrinth game made in C by Cristian
