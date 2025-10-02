@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Labyrinth-Game-Cristian
-Labyrinth game made in C by Cristian
-=======
 # Labyrinth-game-Cubi 🎮🕹️
 
 Willkommen im Labyrinth!  
@@ -53,7 +49,7 @@ Das Spiel wurde im Rahmen der **Praxisarbeit Programmiertechnik A & B (HF Elektr
 ## 📑 Dokumentation
 
 Die vollständige Projektdokumentation ist hier verfügbar:  
-[Labyrinth_Dokumentation_Cristian.pdf](Dokumentation/Labyrinth_Dokumentation_Cristian.pdf)
+[Dokumentation](Dokumentation/Labyrinth_Dokumentation.pdf)
 
 
 ---
@@ -79,4 +75,4 @@ gcc main.c game.c labyrinth.c player.c utils.c -o labyrinth
 ---
 
 Viel Spass beim Spielen!
->>>>>>> 74525bf (Projektarbeit finalisiert)
+
