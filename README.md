@@ -49,7 +49,7 @@ Das Spiel wurde im Rahmen der **Praxisarbeit Programmiertechnik A & B (HF Elektr
 ## 📑 Dokumentation
 
 Die vollständige Projektdokumentation ist hier verfügbar:  
-[Dokumentation](Dokumentation/Labyrinth_Dokumentation.pdf)
+[Dokumentation](Dokumentation/Labyrinth%20Dokumentation.pdf)
 
 
 ---
