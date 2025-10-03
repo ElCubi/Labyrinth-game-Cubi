@@ -41,15 +41,17 @@ Das Spiel wurde im Rahmen der **Praxisarbeit Programmiertechnik A & B (HF Elektr
 ├── utils.c / utils.h
 ├── config.h
 ├── README.md
-└── dokumentation/
-    └── Labyrinth Dokumentation Cristian.pdf
+└── Dokumentation/
+    └── Lösungsdokument.pdf
 ```
 ---
 
 ## 📑 Dokumentation
 
 Die vollständige Projektdokumentation ist hier verfügbar:  
-[Dokumentation](Dokumentation/Labyrinth%20Dokumentation.pdf)
+[Zum Lösungsdokument (PDF)](Dokumentation/Lösungsdokument.pdf)
+
+
 
 
 ---
